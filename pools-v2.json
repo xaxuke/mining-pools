@@ -1758,5 +1758,14 @@
     ],
     "tags": ["Innopolis", "Innopolis.tech"],
     "link": "https://innopolis.tech/"
+  },
+  {
+    "id": 163,
+    "name": "Xaxamining",
+    "addresses": [
+      "tb1qd5pg7ky2sr3wv74pmfrgxg03wqcwkejn7uk70q"
+    ],
+    "tags": ["/Xaxamining.com/"],
+    "link": "https://xaxamining.com/"
   }
 ]
